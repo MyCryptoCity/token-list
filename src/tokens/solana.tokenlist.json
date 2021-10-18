@@ -16658,16 +16658,13 @@
     "name": "MyCryptoCity",
     "decimals": 6,
     "logoURI": "https://mycryptocity.net/wp-content/uploads/2021/10/HDLog2.png",
-    "tags": [
-    "community",
-    "NFT",
-    "game"
-    ],
+    "tags": [],
     "extensions": {
     "website": "https://mycryptocity.net/",
     "twitter": "https://twitter.com/MyCrypto_City"
     "telegram": "https://t.me/mycryptocity"
     "medium": "https://medium.com/@MyCryptoCity"
     }
-   },
+   }
 }
+    }
