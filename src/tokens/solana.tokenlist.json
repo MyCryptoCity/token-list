@@ -16658,7 +16658,9 @@
     "name": "MyCryptoCity",
     "decimals": 6,
     "logoURI": "https://mycryptocity.net/wp-content/uploads/2021/10/HDLog2.png",
-    "tags": [],
+    "tags": [
+    "utility-token"
+    ],
     "extensions": {
     "website": "https://mycryptocity.net/",
     "twitter": "https://twitter.com/MyCrypto_City"
@@ -16666,5 +16668,10 @@
     "medium": "https://medium.com/@MyCryptoCity"
     }
    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 2
+  }
 }
-    }
